@@ -1,5 +1,6 @@
 ## Hey there! 👋 I'm Fernando
-<img width="512" height="512" alt="GalacticPhyisiker" src="https://github.com/user-attachments/assets/07f0df5f-f099-42a8-b625-609b631f06cd" /> 
+<img width="500" height="500" alt="GalacticPhyisiker" src="https://github.com/user-attachments/assets/07f0df5f-f099-42a8-b625-609b631f06cd" /> <img width="500" height="500" alt="AI_ORACLE" src="https://github.com/user-attachments/assets/80574f85-c622-4a6c-b757-081018d9d834" />
+
 
 I am passionate about life, the Universe and everything... Everything Software Engineering and AI.
 I 've had the opportunity of exploring in an out the workings of nature through the marvelous tools of Physics and Math. And now I wanto to reach out to Intelligence, if not our own, a limited, synthetic but still facinating one. Step by step, we all hope to get closer to understand 42.
