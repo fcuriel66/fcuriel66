@@ -1,5 +1,7 @@
 ## Hey there! 👋 I'm Fernando
-<img width="400" height="400" alt="GalacticPhyisiker" src="https://github.com/user-attachments/assets/07f0df5f-f099-42a8-b625-609b631f06cd" /> <img width="400" height="400" alt="AI_ORACLE" src="https://github.com/user-attachments/assets/80574f85-c622-4a6c-b757-081018d9d834" />
+<!-- <img width="400" height="400" alt="GalacticPhyisiker" src="https://github.com/user-attachments/assets/07f0df5f-f099-42a8-b625-609b631f06cd" /> <img width="400" height="400" alt="AI_ORACLE" src="https://github.com/user-attachments/assets/80574f85-c622-4a6c-b757-081018d9d834" /> -->
+<img width="1536" height="1024" alt="Astronaut Gazing at Vibrant Galaxy" src="https://github.com/user-attachments/assets/0e3dd479-39e3-4896-b425-2c2cc0267b8d" />
+
 
 
 I am passionate about life, the Universe and everything... Everything Software Engineering and AI.
