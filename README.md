@@ -5,7 +5,7 @@
 
 
 I am passionate about life, the Universe and everything... Everything Software Engineering and AI.
-I 've had the opportunity of exploring in an out the workings of nature through the marvelous tools of Physics and Math. And now I wanto to reach out to Intelligence, if not our own, a limited, synthetic but still facinating one. Step by step, we all hope to get closer to understand 42.
+Up until now, I 've had the priviledge of explorig the workings of nature through the marvelous tools of Physics and Math. And now, I wanto to reach out to Intelligence, if not our own, the synthetic but still facinating one living "in the Machine". Step by step, we all hope to get closer to understand to it all: 42.
 
 ## Under my belt ->
 
@@ -15,7 +15,7 @@ Languages & Tools:
 ```
 Previous Superpowers:
 ```
-
+Physics, Numerical Methods in Physics, Mathematica, Mechanics of Continuous Media, Project Management.
 ```
 <!--
 **fcuriel66/fcuriel66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
