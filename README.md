@@ -4,8 +4,8 @@
 
 
 
-I am passionate about life, the Universe and everything... Everything Software Engineering and AI.
-Up until now, I 've had the priviledge of explorig the workings of nature through the marvelous tools of Physics and Math. And now, I wanto to reach out to Intelligence, if not our own, the synthetic but still facinating one living "in the Machine". Step by step, we all hope to get closer to understand to it all: 42.
+I am passionate about life, the Universe and everything... Everything software engineering and AI, that is...
+Up until now, I 've had the priviledge of explorig the workings of nature through the marvelous tools of Physics and Math. And now, I want to reach out to "that" intelligence, not our own, but the synthetic and fascinating one living "in the Machine". Step by step, we I hope to get closer to understand the answer of it all: 42.
 
 ## Under my belt ->
 
